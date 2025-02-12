@@ -28,7 +28,7 @@ h1 {
 /* Estilo para dispositivos móviles */
 @media (max-width: 768px) {
     h1 {
-        font-size: 1.3rem; /* Tamaño más pequeño en móviles */
+        font-size: 1.5rem; /* Tamaño más pequeño en móviles */
     }
 }
 
