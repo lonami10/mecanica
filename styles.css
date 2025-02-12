@@ -17,6 +17,21 @@ header h1 {
     margin: 0;
 }
 
+/* Estilo base para el h1 */
+h1 {
+    font-size: 2rem; /* Tamaño de fuente */
+    color: red; /* Color del texto */
+    text-align: center; /* Centrar el texto */
+    margin: 20px 0; /* Espaciado exterior */
+}
+
+/* Estilo para dispositivos móviles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem; /* Tamaño más pequeño en móviles */
+    }
+}
+
 nav ul {
     list-style: none;
     padding: 0;
