@@ -80,12 +80,12 @@ footer {
 }
 
 .horizontal-image {
-    max-width: 400px; /* Aumenta el ancho máximo para imágenes horizontales */
+    max-width: 600px; /* Aumenta el ancho máximo para imágenes horizontales */
     width: 100%; /* Ocupa el 100% del ancho disponible */
     height: auto; /* Mantiene la proporción */
 }
 
 .promo-image.agrandada {
-    transform: scale(1.2); /* Aumenta el tamaño en un 20% */
+    transform: scale(1.5); /* Aumenta el tamaño en un 20% */
     z-index: 1000; /* Asegura que la imagen agrandada esté por encima de otros elementos */
 }
