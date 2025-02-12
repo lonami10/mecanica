@@ -55,3 +55,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+.promo-image {
+    width: 100%; /* La imagen ocupará el 100% del ancho de la tarjeta */
+    max-width: 300px; /* Limita el tamaño máximo de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 8px; /* Esquinas redondeadas */
+    margin-bottom: 10px; /* Espacio debajo de la imagen */
+}
