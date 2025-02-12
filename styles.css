@@ -63,3 +63,9 @@ footer {
     border-radius: 8px; /* Esquinas redondeadas */
     margin-bottom: 10px; /* Espacio debajo de la imagen */
 }
+
+.horizontal-image {
+    max-width: 400px; /* Aumenta el ancho máximo para imágenes horizontales */
+    width: 100%; /* Ocupa el 100% del ancho disponible */
+    height: auto; /* Mantiene la proporción */
+}
